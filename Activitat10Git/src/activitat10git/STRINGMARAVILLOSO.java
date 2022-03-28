@@ -5,7 +5,7 @@
  */
 package activitat10git;
 public class STRINGMARAVILLOSO{
-       static String M = "LUCK";
+       static String M = "LUCKY";
         
     public static void main(String[] args){
         imprimirSuperior();
